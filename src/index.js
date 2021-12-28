@@ -24,7 +24,7 @@ const SLIDES = [
     },
     {
         title: "Great job!",
-        text: "You made it, have a nice day and see you next time!"
+        text: "You made it, have a nice day and see you next time! great icons"
     }
 ];
 
