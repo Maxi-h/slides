@@ -20,7 +20,7 @@ const SLIDES = [
     },
     {
         title: "Finally, 15 sit-ups",
-        text: "Slightly bend your knees. Remember about full range of motion."
+        text: "Slightly bend your knees. Remember about full range of motion. added new"
     },
     {
         title: "Great job!",
