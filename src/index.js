@@ -8,7 +8,7 @@ import {applyPolyfills, defineCustomElements} from 'h8k-components/loader';
 const SLIDES = [
     {
         title: "Today's workout plan",
-        text: "We're gonna do 3 fundamental exercises."
+        text: "We're gonna do 13 fundamental exercises."
     },
     {
         title: "First, 10 push-ups",
